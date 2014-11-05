@@ -1,0 +1,1 @@
+esta apliacion busca en un archivo.txt cualquier palabra que contenga el archivo usando el algoritmo de busqueda llamada busqueda costo uniforme y siempre va encontrado casi el mas optimo:::::::::::::::
